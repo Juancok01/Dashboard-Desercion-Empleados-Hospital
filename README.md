@@ -1,5 +1,6 @@
 # Dashboard-Desercion-Empleados-Hospital
 Dashboard interactivo en Excel para el análisis de deserción de empleados en un hospital, incluye buscador de empleados y análisis dinámico.
+
 ✅ Descripción
 Este proyecto consiste en un dashboard interactivo en Excel desarrollado para analizar y visualizar la deserción de empleados en un hospital, así como realizar una búsqueda personalizada de personal mediante su número de identificación.
 
